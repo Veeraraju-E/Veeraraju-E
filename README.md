@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 I'm Veeraraju, and I love AI research, particularly in Computer Vision, and 3DCV.
 
-[![Veeraraju's GitHub stats](https://github-readme-stats.vercel.app/api?username=Veeraraju-E)](https://github.com/Veeraraju-E/github-readme-stats)
+[![Veeraraju's GitHub stats](https://github-readme-stats.vercel.app/api?username=Veeraraju-E)](https://github.com/anuraghazra/github-readme-stats)
