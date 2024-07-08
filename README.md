@@ -2,9 +2,10 @@
 I'm Veeraraju, and I love AI research, particularly in Computer Vision, and 3DCV.
 
 ### Skills
-- Python | C | C++  |HTML | CSS
-- PyTorch | Django 
-- NeRFs | GANs |
+- Python | C | C++
+- HTML | CSS
+- PyTorch | TensorFlow | Lightning | Django 
+- NeRFs | GANs | Image Segmentation | Computer Vision
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Veeraraju-E)  
 
