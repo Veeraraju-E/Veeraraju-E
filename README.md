@@ -13,8 +13,6 @@ I'm Veeraraju, and I love AI research, particularly in Computer Vision, and 3DCV
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Veeraraju-E)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Veeraraju-E&show_icons=true&count_private=true)  
-
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Veeraraju-E)
 
 [![](https://visitcount.itsvg.in/api?id=Veeraraju-E&label=Profile%20Views&color=3&icon=1&pretty=false)](https://visitcount.itsvg.in)
