@@ -1,4 +1,4 @@
-## 'sup...
+## Hi
 I'm Veeraraju, and I love AI research, particularly in Computer Vision, and 3DCV.
 
 ### Skills
