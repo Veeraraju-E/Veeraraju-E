@@ -5,7 +5,7 @@ I'm Veeraraju, and I love AI research, particularly in Computer Vision, and 3DCV
 - Python | C | C++
 - HTML | CSS
 - PyTorch | TensorFlow | Lightning | Django
-- VAEs | GANs | Diffusion Models | Image Segmentation
+- GANs | Diffusion Models | Self-Supervision
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Veeraraju-E)  
 
