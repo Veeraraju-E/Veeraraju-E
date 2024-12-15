@@ -15,4 +15,4 @@ I'm Veeraraju, and I love AI research, particularly in Computer Vision, and 3DCV
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Veeraraju-E&layout=compact)
 
-[![](https://visitcount.itsvg.in/api?id=Veeraraju-E&label=Profile%20Views&color=3&icon=1&pretty=false)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Veeraraju-E&label=Profile%20VieProws&color=0&icon=0&pretty=false)](https://visitcount.itsvg.in)
