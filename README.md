@@ -1,11 +1,11 @@
 ## Hi
-I'm Veeraraju, and I love AI research, particularly in Computer Vision, and 3DCV.
+I'm Veeraraju; I love AI research and Math. 
+- Mostly tinkering with Computer Vision, 3DV, and Multimodal Systems.
 
 ### Skills
 - Python | C | C++
-- HTML | CSS
-- PyTorch | TensorFlow | Lightning | Django
-- GANs | Diffusion Models | Self-Supervision
+- PyTorch | TensorFlow | Lightning
+- GANs | Diffusion Models | Self-Supervised Learning
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Veeraraju-E)  
 
