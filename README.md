@@ -1,5 +1,5 @@
 ## Hi
-I'm Veeraraju; I love AI research and Math. I'm mostly tinkering with Computer Vision, Multimodal Systems, and XAI.
+I'm Veeraraju; I love AI research and Math. I'm mostly messing around with Multimodal Systems (vision-first) and XAI.
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Veeraraju-E)  
